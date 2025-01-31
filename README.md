@@ -8,6 +8,9 @@ This project presents a comparative analysis of Neural Networks (NN) and Support
 
 Source: [UCI Student Performance Dataset](https://archive.ics.uci.edu/dataset/320/student+performance)
 
+You can have a look at the data after preprocessing: [Link](ready_data.csv)
+
+
 Attributes: Socioeconomic factors, academic history, and behavioural attributes.
 
 Target Variable: Final grade in Mathematics (G3);  follow our categorized guideline:<br>
